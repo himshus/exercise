@@ -1,3 +1,11 @@
-Hi, this is Himanshu Sachan
+This is Team B
 
-I am a member of team B.
+Members of this team are:
+
+1. Himanshu Sachan
+2. Dhawal Bhende
+3. Vikash
+4. Naman
+5. Ravalika
+6. Nitesh
+7. Sai Chaitany
